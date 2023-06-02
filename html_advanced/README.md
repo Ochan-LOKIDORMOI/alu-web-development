@@ -1,6 +1,6 @@
 # HTML_Advanced
 
-This is the replicated design of Figma
+This is the replicated design of Figma on HTML
 
 # FIGMA DESIGN
 
